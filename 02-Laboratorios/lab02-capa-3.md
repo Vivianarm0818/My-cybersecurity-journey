@@ -10,7 +10,7 @@ Configuración
 - Conectividad: los tres conectados a un Switch 2960.
 
 Resultados
-Logré realizar un `ping` exitoso entre las tres máquinas. Con el comando show mac address-table` pude observar qué dispositivos están conectados y en qué puertos desde la terminal del switch.
+Logré realizar un `ping` exitoso entre las tres máquinas. Con el comando `show mac address-table` pude observar qué dispositivos están conectados y en qué puertos desde la terminal del switch.
 
 <img width="661" height="592" alt="Screenshot 2026-02-24 at 1 26 57 PM" src="https://github.com/user-attachments/assets/ebca330e-1d92-4063-a96a-5d581d1f4055" />
 
